@@ -1,6 +1,6 @@
-1. 先运行eureka-server
+1. 先运行microservice-discovery-eureka
     1) mvn package
-    2) java -jar eureka-server
+    2) java -jar microservice-discovery-eureka
 
 2. 运行服务提供者 microservice-provider-user
 
